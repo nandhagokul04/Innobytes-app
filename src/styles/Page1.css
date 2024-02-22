@@ -10,9 +10,9 @@ body {
 .signin {
     width: 282px;
     height: 28px;
-    position: relative;
+    position: absolute;
     top: 70px;
-    left: 524px;
+    left: 1090px;
     color: #8692A6;
     font-size: 18px;
     font-weight: 400;
