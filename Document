@@ -1,0 +1,14 @@
+TO RUN THE PROJECT
+{
+In the project directory, you can run:
+npm start(Runs the app in the development mode).
+Open http://localhost:3000 to view it in your browser.
+}
+Dependencies to add
+{
+npm i react-world-flags
+npm i react-icons
+npm i react-feather
+npm i react-router-dom
+npm i react-router-dom
+}
