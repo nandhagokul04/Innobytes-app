@@ -1,0 +1,113 @@
+.step3 #step3 {
+    width: 81px;
+    height: 17px;
+    top: 75px;
+    position: absolute;
+    left: 1339px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #BDBDBD;
+}
+
+.step3 #bankverification {
+    position: absolute;
+    width: 132px;
+    height: 19px;
+    top: 96px;
+    left: 1290px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #8692A6;
+}
+
+.inputs ::placeholder {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.saveandcontinues button {
+    background-color: #1565D8;
+    width: 472px;
+    height: 64px;
+    position: absolute;
+    top: 585px;
+    left: 793px;
+    border-radius: 6px;
+    border: none;
+}
+
+.saveandcontinues button:hover {
+    border: 2px solid black;
+    background-color: #FFFFFF;
+
+    #saveandcontinue {
+        background-color: #FFFFFF;
+        color: #1565D8;
+    }
+}
+
+.saveandcontinues #saveandcontinue {
+    width: 126px;
+    height: 19px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #1565D8;
+    border: none;
+}
+
+.secure {
+    position: absolute;
+    top: 678px;
+    left: 942px;
+
+}
+
+.secure #locked {
+    position: relative;
+    top: 819px;
+    left: 126px;
+    padding: 0.88px, 2.33px, 0.88px, 2.33px;
+}
+
+.secure #secured {
+    width: 149px;
+    height: 15px;
+    position: relative;
+    top: -7px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #8692A6;
+}
+
+#lock {
+    color: #8692A6;
+    width: 14px;
+    height: 14px;
+    padding: 0px 2px 4.5px 0px;
+}
+
+#verified {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 60px;
+    left: 420px;
+    padding: 0.83px, 0.83px, 0.83px, 0.83px;
+
+}

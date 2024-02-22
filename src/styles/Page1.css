@@ -1,0 +1,206 @@
+@font-face {
+    font-family: Inter;
+    src: url(./fonts/Inter-VariableFont_slnt,wght.ttf);
+}
+
+body {
+    background-color: #FFFFFF;
+}
+
+.signin {
+    width: 282px;
+    height: 28px;
+    position: relative;
+    top: 70px;
+    left: 524px;
+    color: #8692A6;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: right;
+}
+
+.signin a {
+    color: #1565D8;
+}
+
+#joinus {
+
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 118px;
+    height: 36px;
+    color: #000000;
+    position: absolute;
+    top: 203px;
+    left: 793px;
+}
+
+#para {
+    width: 411px;
+    height: 56px;
+    position: absolute;
+    top: 270px;
+    left: 793px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8692A6;
+}
+
+.individual {
+    display: flex;
+    text-align: left;
+
+}
+
+#individualbtn {
+    background-color: #F5F9FF;
+    width: 426px;
+    height: 108px;
+    position: absolute;
+    top: 370px;
+    left: 793px;
+    border-radius: 6px;
+    border: 1px solid #1565D8;
+}
+
+/* individual image css */
+
+.first {
+    width: 52px;
+    height: 52px;
+    background-color: #1565D8;
+    border: 2px solid #1565D8;
+    border: none;
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+    background-clip: padding-box;
+    margin-right: 20px;
+    margin-left: 15px;
+}
+
+.first .user {
+    color: #FFFFFF;
+    position: absolute;
+    top: 42px;
+    left: 32px;
+}
+
+.second #individual {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+    position: relative;
+    left: 28px;
+
+}
+
+#content {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8692A6;
+    position: relative;
+    top: 10px;
+    left: 28px;
+}
+
+.third {
+    width: 50px;
+    height: 10px;
+    font-weight: 500;
+    color: #1565D8;
+    position: relative;
+    top: 16px;
+    left: 5px;
+    padding-left: 10px;
+
+}
+
+#individualbtn:hover {
+    border: 2px solid #1565D8;
+}
+
+#buisness {
+    width: 426px;
+    height: 108px;
+    position: absolute;
+    top: 520px;
+    left: 793px;
+    border: none;
+    border-radius: 6px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 2px 14px 1px rgba(0, 0, 0, 0.15);
+
+}
+
+/* buisness image css */
+.bfirstimg1 {
+    width: 45px;
+    height: 45px;
+    background-color: #1565D8;
+    border: 2px solid #1565D8;
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+    background-clip: padding-box;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+
+.bfirstimg2 {
+    width: 45px;
+    height: 45px;
+    background-color: #FFFFFF;
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+    background-clip: padding-box;
+}
+
+.bfirstimg1 .briefcase {
+    position: absolute;
+    top: 37px;
+    left: 33px;
+    color: #1565D8;
+}
+
+#buisnesscon {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 69px;
+    height: 19px;
+    position: absolute;
+    top: 20px;
+    left: 120px;
+    color: #000000;
+}
+
+#bcontent {
+    width: 239px;
+    height: 34px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8692A6;
+    position: absolute;
+    top: 45px;
+    left: 120px;
+}

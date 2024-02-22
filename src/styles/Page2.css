@@ -1,0 +1,265 @@
+.back a {
+    width: 39px;
+    height: 19px;
+    position: absolute;
+    top: 75px;
+    left: 740px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8692A6;
+}
+
+#back {
+    position: absolute;
+    top: 3.5px;
+}
+
+#step1 {
+    width: 79px;
+    height: 17px;
+    top: 75px;
+    left: 1339px;
+    position: absolute;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #BDBDBD;
+}
+
+#personalinfo {
+    width: 106px;
+    height: 19px;
+    position: absolute;
+    top: 96px;
+    left: 1313px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #8692A6;
+}
+
+.register #account {
+    width: 415px;
+    height: 36px;
+    position: absolute;
+    top: 193px;
+    left: 793px;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+.register #content {
+    width: 411px;
+    height: 56px;
+    position: absolute;
+    top: 239px;
+    left: 793px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8692A6;
+}
+
+.register hr {
+    width: 427px;
+    position: absolute;
+    top: 311px;
+    left: 792px;
+    border: 1px solid #F5F5F5;
+    color: #F5F5F5;
+}
+
+.inputs label {
+    color: #696F79;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.inputs input {
+    width: 426px;
+    height: 64px;
+    border-radius: 6px;
+    border: 1px solid #8692A6;
+    margin-top: 15px;
+}
+
+.fname {
+    position: absolute;
+    top: 335px;
+    left: 793px;
+}
+
+.mail {
+    position: absolute;
+    top: 456px;
+    left: 793px;
+}
+
+.password {
+    position: absolute;
+    top: 577px;
+    left: 793px;
+}
+
+.inputs ::placeholder {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#passbtn {
+    width: 32px;
+    height: 15px;
+    font-family: Inter;
+    position: relative;
+    left: -60px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: right;
+    background-color: transparent;
+    border: none;
+    color: #000000;
+}
+
+.inputs input {
+    padding-left: 40px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #343434;
+}
+
+.inputs input:focus {
+    outline: none;
+    border: 2px solid #1565D8;
+}
+
+.terms input {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 698px;
+    left: 793px;
+    padding: 1.67px, 1.67px, 1.67px, 1.67px;
+}
+
+.terms p {
+    width: 220px;
+    height: 19px;
+    position: absolute;
+    top: 697px;
+    left: 827px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #696F79;
+}
+
+.registeracc button {
+    width: 470px;
+    height: 64px;
+    top: 756px;
+    position: absolute;
+    left: 793px;
+    border: none;
+    border-radius: 6px;
+    color: #FFFFFF;
+    background-color: #1565D8;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.registeracc button:hover {
+    border: 2px solid #000000;
+    background-color: #FFFFFF;
+    color: #1565D8;
+}
+
+.line hr {
+    display: flex;
+    border: 1px solid #F5F5F5;
+    color: #F5F5F5;
+}
+.line .hr1 {
+    width: 172px;
+    top: 853px;
+    position: absolute;
+    left: 793px;
+}
+.line .or {
+    width: 14px;
+    position: absolute;
+    height: 15px;
+    top: 851px;
+    left: 998px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #BABABA;
+}
+.line .hr2 {
+    width: 172px;
+    top: 853px;
+    left: 1047px;
+    position: absolute;
+}
+.googleregister button{
+    width: 470px;
+    height: 64px;
+position: absolute;
+top: 885px;
+left: 793px;
+border-radius: 6px;
+box-shadow: 0px 4px 15px 5px #00000014;
+background-color: #FFFFFF;
+border: none;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+color: #000000;
+}
+.googleregister button:hover{
+    border: 2px solid #1565D8;
+    background-color: #1565D8;
+    color: #FFFFFF;
+}
+.googleregister img{
+    position: absolute;
+    top: 20px;
+    left: 52px;
+}
